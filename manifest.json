@@ -1,6 +1,6 @@
 {
-    "name": "kounter",
-    "short_name": "kounter",
+    "name": "Kounter",
+    "short_name": "Kounter",
     "start_url": "/kounter",
     "display": "standalone",
     "orientation": "portrait",
